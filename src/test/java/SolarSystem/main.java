@@ -16,12 +16,19 @@ public class main {
         Sun.temp="1223124kelvin";
 
 
+
  //**************PLANET 2****************
         Planet2 xaros = new Planet2();
         xaros.name = "olaola";
         xaros.color="blue";
         xaros.size="321456879";
 
+//PLANET1
+Planet1 plato = new Planet1();
+plato.color="green";
+plato.name="loveyou";
+plato.temp="1000000k";
+plato.radius="800000km";
 
 
         
