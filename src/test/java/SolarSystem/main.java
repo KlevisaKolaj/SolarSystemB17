@@ -15,6 +15,15 @@ public class main {
         Sun.color="black";
         Sun.temp="1223124kelvin";
 
+
+ //**************PLANET 2****************
+        Planet2 xaros = new Planet2();
+        xaros.name = "olaola";
+        xaros.color="blue";
+        xaros.size="321456879";
+
+
+
         
     }
 }
